@@ -22,4 +22,3 @@ LED3 → GPIO 24
 LED4 → GPIO 25
 BUTTON → GPIO 17
 ```
-### Sơ đồ lắp mạch:
